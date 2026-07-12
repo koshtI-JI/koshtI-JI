@@ -1,94 +1,124 @@
-\#
+<div align="center">
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Om+Koshti;Frontend+Developer;React+Developer;Building+Modern+Web+Experiences" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Om+Koshti;Frontend+Developer;React+Developer;Building+Modern+Web+Experiences" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&pause=1000&color=000000&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Om+Koshti;Frontend+Developer;React+Developer;Building+Modern+Web+Experiences" />
+  </picture>
+  <p align="center">
+    <b>Building responsive, accessible and performance-focused web applications using modern frontend technologies.</b>
+  </p>
+  
+  <p align="center">
+    <a href="https://om-koshti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/om-koshti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume" /></a>
+    <a href="mailto:omkoshti8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <br />
+</div>
 
-::: {align="center"}
-Hi 👋, I'm Om Koshti
-:::
+<br />
 
-::: {align="center"}
-### Frontend Developer • React Developer • JavaScript Enthusiast
+### ✦ Philosophy
 
-Building modern, fast & user-focused web experiences.
+I believe the best digital products blur the line between design and engineering. My work focuses on:
+- **Pixel-Perfect Execution:** Translating high-fidelity designs into responsive, fluid interfaces.
+- **Purposeful Motion:** Using micro-interactions and animations to guide users, not distract them.
+- **Scalable Architecture:** Writing clean, modular TypeScript and React code that scales gracefully.
+- **Performance First:** Ensuring every experience feels fast, light, and responsive.
 
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+Something+New" />`{=html}
-:::
+<br />
 
-------------------------------------------------------------------------
+### ✦ Tech Stack
 
-## 🚀 About Me
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,git,github,vercel" />
+  </a>
+</div>
 
--   💻 Frontend Developer passionate about clean UI & great UX
--   ⚛️ Building projects with React, JavaScript and Vite
--   🌱 Currently improving Full Stack Development
--   📍 Jabalpur, India
--   🎯 Goal: Build products that solve real-world problems
+<br />
 
-------------------------------------------------------------------------
+### ✦ Selected Work
 
-## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Om Koshti Portfolio</h3>
+      <p>Premium personal portfolio architecture featuring fluid animations and modern design principles.</p>
+      <a href="https://om-koshti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/koshtI-JI/om-koshti-portfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Suhag E-commerce</h3>
+      <p>Premium frontend storefront designed for traditional Indian jewellery. Responsive and visually appealing.</p>
+      <a href="https://koshti-ji.github.io/suhag-jewellery/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/koshtI-JI/suhag-jewellery"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Meta Rescue</h3>
+      <p>Modern web application built with React, TypeScript, and Vite. Focus on clean UI/UX.</p>
+      <a href="https://koshti-ji.github.io/meta-rescue/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/koshtI-JI/meta-rescue"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Food Delivery UI</h3>
+      <p>Responsive food delivery interface inspired by top industry platforms like Zomato and Swiggy.</p>
+      <a href="https://koshti-ji.github.io/food-delivery-ui/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/koshtI-JI/food-delivery-ui"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,nodejs" />`{=html}
-```{=html}
-</p>
-```
+<br />
 
-------------------------------------------------------------------------
+### ✦ GitHub Metrics
 
-## 🌟 Featured Projects
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=koshtI-JI&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=koshtI-JI&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=666666&icon_color=000000&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=koshtI-JI&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&hide_title=true" height="150" alt="GitHub Stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=koshtI-JI&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=999999&sideNums=FFFFFF&sideLabels=999999&dates=999999" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=koshtI-JI&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koshtI-JI&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
+  </picture>
+</div>
 
-  Project                  Description
-  ------------------------ -----------------------------------------------
-  💎 Jewellery Website     Responsive jewellery store UI with filtering.
-  🌐 Portfolio             Modern portfolio with animations and SEO.
-  🍔 Food Website          Responsive restaurant website.
-  🚗 Car Price Predictor   ML-based car price prediction project.
+<br />
 
-------------------------------------------------------------------------
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koshtI-JI&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koshtI-JI&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=666666" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshtI-JI&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" height="150" alt="Top Languages" />
+  </picture>
+</div>
 
-## 📊 GitHub Stats
+<br />
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=koshtI-JI&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshtI-JI&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=koshtI-JI&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=koshtI-JI&theme=transparent&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=koshtI-JI&theme=transparent&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=koshtI-JI&theme=transparent&hide_border=true&bg_color=00000000" width="100%" alt="Activity Graph" />
+  </picture>
+</div>
 
-------------------------------------------------------------------------
+<br />
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koshtI-JI/koshtI-JI/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koshtI-JI/koshtI-JI/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/koshtI-JI/koshtI-JI/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=koshtI-JI&theme=tokyonight&row=1&column=6"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
-
-## 📫 Connect
-
--   🌐 Portfolio: *Add your portfolio URL*
--   💼 LinkedIn: *Add your LinkedIn URL*
--   📧 Email: *Add your email*
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-:::
