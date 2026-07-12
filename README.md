@@ -5,7 +5,7 @@
   <p>
     <a href="https://om-koshti-portfolio.vercel.app">Portfolio</a> &nbsp;&nbsp;︱&nbsp;&nbsp;
     <a href="https://linkedin.com/in/om-koshti">LinkedIn</a> &nbsp;&nbsp;︱&nbsp;&nbsp;
-    <a href="#">Resume</a> &nbsp;&nbsp;︱&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1E0waKORbB1dOhZ45ZarivWAf5ad7FSCU/view">Resume</a> &nbsp;&nbsp;︱&nbsp;&nbsp;
     <a href="mailto:omkoshti8@gmail.com">Email</a>
   </p>
   <br>
